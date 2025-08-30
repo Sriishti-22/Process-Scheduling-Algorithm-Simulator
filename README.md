@@ -45,3 +45,17 @@ Built with **Python (Tkinter + matplotlib)**, this tool helps students and devel
 - **Output Layer** → Metrics & results  
 - **Visualization Layer** → Gantt charts & comparisons  
 - **Recommendation Engine** → Suggests best algorithm  
+
+## 📸 Snapshots
+
+### ▶️ Application Interface
+![Interface](Interface.png)
+
+### 📊 Comparison Metrics
+![Comparison](Comparison.png)
+
+### 🏆 Best Algorithm Recommendation
+![Best Algorithm Recommendation](Best%20algorithm%20Recommendation.png)
+
+### 🔎 Priority Scheduling Output
+![Priority Output](Priority-Output.png)
